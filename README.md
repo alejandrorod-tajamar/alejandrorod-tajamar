@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alejandro
-- 👀 I’m interested in IT in geeneral, AI/ML, gaming, music & more!
+- 👀 I’m interested in IT in general, Data Science, gaming, music & more!
 - 🌱 I’m currently learning AI & Big Data
 <!--
 - 💞️ I’m looking to collaborate on ...
